@@ -1,1 +1,7 @@
-Try this web is your localhost with `python3 -m http.server 8000` and go to [http://localhost:8000/](http://localhost:8000/)
+This is an example to try out Arengu forms with React.
+
+```
+npm ci
+npm run build
+npm run serve
+```
