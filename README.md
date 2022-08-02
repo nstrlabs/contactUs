@@ -1,0 +1,1 @@
+Try this web is your localhost with `python3 -m http.server 8000` and go to [http://localhost:8000/](http://localhost:8000/)
